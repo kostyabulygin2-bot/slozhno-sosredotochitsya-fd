@@ -8,9 +8,12 @@
   --bg-color: #000028;
   --accent-color: #ff0070;
   --heading-color: #DB00FF;
-  --border-button-color: #FF007066;
+  --border-hover-color: #FF007066;
   --title-decor-color: #000028;
   --content-text-color: #F1B2CE;
+  --theme-menu-color: #ff0070;
+  --decor-color: #ff0070;
+  --section-title-color: #ff0070;
   --font-family: 'IBM Plex Mono', sans-serif;
   --font-size-basic: 18px;
   --font-size-heading: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
