@@ -1,0 +1,1 @@
+https://github.com/kostyabulygin2-bot/slozhno-sosredotochitsya-fd
