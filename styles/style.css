@@ -299,10 +299,6 @@
     margin-left: 5px;
   }
 
-  .content__card {
-    grid-column: 2/4;
-  }
-
   .section__articles {
     grid-column: 2/4;
     margin-left: 5px;
